@@ -1,1 +1,1 @@
-this is a practice lesson git remotes etc.
+this is a practice lesson on git remotes etc.
